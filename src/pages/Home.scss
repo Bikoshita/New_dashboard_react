@@ -1,0 +1,108 @@
+.home {
+    display: flex;
+
+    // position: absolute;
+    width: 100%;
+    height:100vh;
+    // background-color: bisque;
+}
+
+.container{
+    // background-color: green;
+    width: 90%;
+    margin-left: 2%;
+    height:max-content
+}
+
+.deviceDetails{
+    // margin-top: 10%;
+    display: flex;
+    justify-content: space-between;
+    margin: 7% 0% 1%;
+    width: 100%;
+    // width:max-content;
+    padding: 2rem;
+    // box-shadow: 10px #888888;
+    // position: absolute;
+    // position: relative;
+    // height:fit-content;
+    // flex-direction: row;
+}
+
+.tableDetails{
+    //  background-color: green;
+    // width:100%;
+    // margin-left: 7%;
+    // box-shadow: 5px 5px 5px 5px #888888;
+    box-shadow: 1px 2px 10px #888888;
+    // padding: 2rem;
+}
+
+.cards{
+    // background-color: yellow;
+    // margin-top: 10%;
+    margin: 8% 5% 0%;
+    width: 100%;
+    padding: 2rem;
+    box-shadow: 1px 2px 10px #888888;
+    // box-shadow: 10px #888888;
+    // position: absolute;
+    position: relative;
+    height:fit-content;
+    display: flex;
+    justify-content: space-between;
+    // flex-direction: row;
+}
+
+.clinicalValidation{
+    // background-color: antiquewhite;
+    width: 100%;
+    height:100vh;
+}
+
+.logData{
+        // background-color: antiquewhite;
+}
+
+.filterBoxLogData{
+    // background-color: yellow;
+    // margin-top: 10%;
+    margin: 8% 2% 0%;
+    width: 100%;
+    padding: 2rem;
+    box-shadow: 1px 2px 10px #888888;
+    // box-shadow: 10px #888888;
+    // position: absolute;
+    position: relative;
+    height:fit-content;
+    display: flex;
+    justify-content: space-between;
+    // flex-direction: row;
+}
+
+.filterBoxClinical{
+    // background-color: yellow;
+    // margin-top: 10%;
+    margin: 8% 10% 0%;
+    width: 80%;
+    padding: 2rem;
+    box-shadow: 1px 2px 10px #888888;
+    // box-shadow: 10px #888888;
+    // position: absolute;
+    position: relative;
+    height:fit-content;
+    display: flex;
+    justify-content: space-between;
+    // flex-direction: row;
+}
+
+.filterTable{
+    //  background-color: green;
+    width:92%;
+    margin: 5% 5% 0%;
+    // margin-left: 7%;
+    // box-shadow: 5px 5px 5px 5px #888888;
+    box-shadow: 1px 2px 10px #888888;
+    // padding: 2rem;
+}
+
